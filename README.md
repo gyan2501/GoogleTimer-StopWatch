@@ -19,5 +19,6 @@ https://googletimer-hv8deybi8-gyan2501.vercel.app/
 
 ## Screenshots
 
-<img src=""/>
+<img src="https://github.com/gyan2501/GoogleTimer-StopWatch/blob/main/googletimer/public/gts.png"/>
 </br>
+<img src="https://github.com/gyan2501/GoogleTimer-StopWatch/blob/main/googletimer/public/gts2.png"/>
